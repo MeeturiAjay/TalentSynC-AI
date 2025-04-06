@@ -36,48 +36,55 @@ cd TalentSync-AI
 ```
 
 ### 2. Set Up the Environment
-Ensure you have Python 3.7 or above installed.
+
+Ensure you have Python 3.7 or above installed.  
 Create and activate a virtual environment:
-```
+
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 ### 3. Install Dependencies
-```
+
+```bash
 pip install -r requirements.txt
 ```
 
 ### 4. Configure Environment Variables
-Create a .env file in the root directory and add:
-```
+
+Create a `.env` file in the root directory and add:
+
+```env
 GROQ_API_KEY=your_groq_api_key
 GOOGLE_APP_PASSWORD=your_google_app_password
 ```
-| 📝 Replace your_groq_api_key and your_google_app_password with your actual credentials.
+
+> 📝 Replace `your_groq_api_key` and `your_google_app_password` with your actual credentials.
 
 ### 5. Run the Application
-```
+
+```bash
 streamlit run app.py
 ```
----
-
-### 💡 How It Works
-1. Enter Job Description in the sidebar.
-2. Upload Candidate CV (PDF format) using the sidebar.
-3. Click on "🚀 Run Multi-Agent Screening" to:
-  - Summarize the job description.
-
-  - Extract and analyze key information from the CV.
-
-  - Match CV data against the job profile.
-
-  - Notify the candidate about their result via email.
-4. View Results: Check screening status and email delivery details on-screen.
 
 ---
 
-### 🤝 Contributing
+## 💡 How It Works
+
+1. **Enter Job Description** in the sidebar.  
+2. **Upload Candidate CV** (PDF format) using the sidebar.  
+3. Click on **"🚀 Run Multi-Agent Screening"** to:
+   - Summarize the job description  
+   - Extract and analyze key information from the CV  
+   - Match CV data against the job profile  
+   - Notify the candidate about their result via email  
+4. **View Results:** Check screening status and email delivery details on-screen.
+
+---
+
+## 🤝 Contributing
+
 Contributions are welcome! Feel free to:
 - Report bugs
 - Open issues
@@ -86,8 +93,9 @@ Contributions are welcome! Feel free to:
 
 ---
 
-### 📬 Contact
-For questions or suggestions, feel free to reach out via meeturiajaykumar.23@gmail.com
+## 📬 Contact
+
+For questions or suggestions, feel free to reach out via [meeturiajaykumar.23@gmail.com](mailto:meeturiajaykumar.23@gmail.com)
 
 ---
 

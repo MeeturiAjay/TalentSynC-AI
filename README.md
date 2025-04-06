@@ -1,4 +1,4 @@
-# TalentSync AI
+# 🧑‍💻 TalentSync AI 🤖
 
 TalentSync AI is a user-friendly recruitment tool that leverages smart automation to match job descriptions with candidate resumes. It streamlines the hiring process by comparing job requirements with candidate profiles, making it easier for recruiters to quickly identify the best-fit candidates.
 

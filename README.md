@@ -33,3 +33,8 @@ TalentSync AI is a user-friendly recruitment tool that leverages smart automatio
 ```bash
 git clone https://github.com/yourusername/TalentSync-AI.git
 cd TalentSync-AI
+
+2. Set Up the Environment
+Ensure you have Python 3.7 or above installed.
+
+Create and activate a virtual environment:

@@ -61,39 +61,43 @@ GOOGLE_APP_PASSWORD=your_google_app_password
 ```
 streamlit run app.py
 ```
+---
 
-💡 How It Works
-Enter Job Description in the sidebar.
+### 💡 How It Works
+1. Enter Job Description in the sidebar.
 
-Upload Candidate CV (PDF format) using the sidebar.
+2. Upload Candidate CV (PDF format) using the sidebar.
 
-Click on "🚀 Run Multi-Agent Screening" to:
+3. Click on "🚀 Run Multi-Agent Screening" to:
 
-Summarize the job description.
+- Summarize the job description.
 
-Extract and analyze key information from the CV.
+- Extract and analyze key information from the CV.
 
-Match CV data against the job profile.
+- Match CV data against the job profile.
 
-Notify the candidate about their result via email.
+- Notify the candidate about their result via email.
 
-View Results: Check screening status and email delivery details on-screen.
+4. View Results: Check screening status and email delivery details on-screen.
 
-🤝 Contributing
+---
+
+### 🤝 Contributing
 Contributions are welcome! Feel free to:
 
-Report bugs
+- Report bugs
 
-Open issues
+- Open issues
 
-Suggest new features
+- Suggest new features
 
-Submit pull requests
+- Submit pull requests
 
-📄 License
-This project is licensed under the MIT License.
+---
 
-📬 Contact
-For questions or suggestions, feel free to reach out via [your email address].
+### 📬 Contact
+For questions or suggestions, feel free to reach out via meeturiajaykumar.23@gmail.com
+
+---
 
 ⭐ Don't forget to star this repo if you found it useful!

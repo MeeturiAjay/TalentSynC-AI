@@ -37,7 +37,6 @@ cd TalentSync-AI
 
 ### 2. Set Up the Environment
 Ensure you have Python 3.7 or above installed.
-
 Create and activate a virtual environment:
 ```
 python -m venv venv
@@ -65,32 +64,24 @@ streamlit run app.py
 
 ### 💡 How It Works
 1. Enter Job Description in the sidebar.
-
 2. Upload Candidate CV (PDF format) using the sidebar.
-
 3. Click on "🚀 Run Multi-Agent Screening" to:
+  - Summarize the job description.
 
-- Summarize the job description.
+  - Extract and analyze key information from the CV.
 
-- Extract and analyze key information from the CV.
+  - Match CV data against the job profile.
 
-- Match CV data against the job profile.
-
-- Notify the candidate about their result via email.
-
+  - Notify the candidate about their result via email.
 4. View Results: Check screening status and email delivery details on-screen.
 
 ---
 
 ### 🤝 Contributing
 Contributions are welcome! Feel free to:
-
 - Report bugs
-
 - Open issues
-
 - Suggest new features
-
 - Submit pull requests
 
 ---

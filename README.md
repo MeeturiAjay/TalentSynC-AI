@@ -97,7 +97,7 @@ Contributions are welcome! Feel free to:
 
 For questions or suggestions, feel free to reach out via 
 - [meeturiajaykumar.23@gmail.com](mailto:meeturiajaykumar.23@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/meeturi-ajay-kumar-a02743248/)
+- [LinkedIn](https://www.linkedin.com/in/meeturi-ajay-kumar-a02743248/)
 
 ---
 

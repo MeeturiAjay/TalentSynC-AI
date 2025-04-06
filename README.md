@@ -43,3 +43,57 @@ Create and activate a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
+
+### 3. Install Dependencies
+```
+pip install -r requirements.txt
+```
+
+### 4. Configure Environment Variables
+Create a .env file in the root directory and add:
+```
+GROQ_API_KEY=your_groq_api_key
+GOOGLE_APP_PASSWORD=your_google_app_password
+```
+| 📝 Replace your_groq_api_key and your_google_app_password with your actual credentials.
+
+### 5. Run the Application
+```
+streamlit run app.py
+```
+
+💡 How It Works
+Enter Job Description in the sidebar.
+
+Upload Candidate CV (PDF format) using the sidebar.
+
+Click on "🚀 Run Multi-Agent Screening" to:
+
+Summarize the job description.
+
+Extract and analyze key information from the CV.
+
+Match CV data against the job profile.
+
+Notify the candidate about their result via email.
+
+View Results: Check screening status and email delivery details on-screen.
+
+🤝 Contributing
+Contributions are welcome! Feel free to:
+
+Report bugs
+
+Open issues
+
+Suggest new features
+
+Submit pull requests
+
+📄 License
+This project is licensed under the MIT License.
+
+📬 Contact
+For questions or suggestions, feel free to reach out via [your email address].
+
+⭐ Don't forget to star this repo if you found it useful!

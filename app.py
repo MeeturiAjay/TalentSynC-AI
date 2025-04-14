@@ -82,6 +82,4 @@ if chosen_CV != "Select CV":
             chunk_overlap=50
         )
         chunks = text_splitter.split_text(text)
-
-        llm = 
         
